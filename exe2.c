@@ -11,7 +11,7 @@ for(int i = 0; i < 5; i++){
 for(int i = 0; i < 5; i++){
     printf("%d ", vet[i]);
 }
-
+printf("\nVetor invertido\n")
 for(int i = 5; i >= 0; i--){
     printf("%d ", vet[i]);
 }
