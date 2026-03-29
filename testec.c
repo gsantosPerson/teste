@@ -2,8 +2,8 @@
 
 int main(){
 
-printf("Hello, world!");
-printf("Função pull");
-printf("Novo teste);
+printf("Hello, world!\n");
+printf("Função pull\n");
+printf("Novo teste\n");
 return 0;
 }
