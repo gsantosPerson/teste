@@ -11,5 +11,9 @@ for(int i = 0; i < 5; i++){
 for(int i = 0; i < 5; i++){
     printf("%d ", vet[i]);
 }
+
+for(int i = 5; i >= 0; i--){
+    printf("%d ", vet[i]);
+}
 return 0;
 }
